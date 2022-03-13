@@ -1,0 +1,39 @@
+.booking {
+  color: crimson;
+  background-color: white;
+}
+
+.speaker {
+  width: 50%;
+}
+
+.event {
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
+/* .fa-solid {
+  color: lightgreen;
+} */
+
+.package {
+  background-color: crimson;
+  color: whitesmoke;
+  padding: 35px 20px;
+  border-radius: 23px;
+  position: relative;
+}
+
+.hot {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right: 30px;
+  margin-top: -10px;
+}
+
+.apps {
+  text-decoration: none;
+  color: whitesmoke;
+  width: 30%;
+}
